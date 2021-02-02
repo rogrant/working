@@ -12,6 +12,6 @@ public class TypeErasure {
         numbers = temp;
 
         numbers.add(2D);
-        Integer integer = integers.get(0);
+        //Integer integer = integers.get(0);
     }
 }
